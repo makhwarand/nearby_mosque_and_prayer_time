@@ -1,6 +1,6 @@
 # mosque_prayer_time_locator
 
-A new Flutter project.
+A new Flutter project. Please note that the Google Maps API key used in the app has been deleted.
 
 ## Getting Started
 
